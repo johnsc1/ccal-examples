@@ -11,6 +11,8 @@ immersive experience.
 
 If you want to learn more in an interactive environment, visit the ccal sandbox repository!
 
+This text is a test for a closed pull request.
+
 ### Further Information 
 
 Further information about the CCAL method and website can be found in *[We Go Together: Situating Github in Library Science](https://github.com/johnsc1/we-go-together/blob/main/SeniorThesis.pdf)*
